@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1044" started-at="2018-07-26T04:51:59Z" finished-at="2018-07-26T04:52:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1044" started-at="2018-07-26T04:51:59Z" finished-at="2018-07-26T04:52:00Z">
+      <class name="com.durgasoft.selenium.excel.MapWithDataProvider">
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:com.durgasoft.selenium.excel.MapWithDataProvider@60285225]" name="test" duration-ms="36" started-at="2018-07-26T04:52:00Z" data-provider="testdata" finished-at="2018-07-26T04:52:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=mahesh, Password=Dasari, DOB=July}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:com.durgasoft.selenium.excel.MapWithDataProvider@60285225]" name="test" duration-ms="6" started-at="2018-07-26T04:52:00Z" data-provider="testdata" finished-at="2018-07-26T04:52:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=Durga, Password=Dasari, DOB=May}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:com.durgasoft.selenium.excel.MapWithDataProvider@60285225]" name="test" duration-ms="4" started-at="2018-07-26T04:52:00Z" data-provider="testdata" finished-at="2018-07-26T04:52:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=Sunny, Password=Dasari, DOB=July}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:com.durgasoft.selenium.excel.MapWithDataProvider@60285225]" name="test" duration-ms="5" started-at="2018-07-26T04:52:00Z" data-provider="testdata" finished-at="2018-07-26T04:52:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=null, Password=null, DOB=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.durgasoft.selenium.excel.MapWithDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
